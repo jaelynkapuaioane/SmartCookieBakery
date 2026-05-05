@@ -1,0 +1,4 @@
+repository "SmartCookieBakery/SmartCookieBakery@1375625848927@cloud"
+  path "/"
+    br "/main"
+    co "/main"
